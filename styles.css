@@ -1,0 +1,89 @@
+body {
+    color: #87079C;
+  }
+  
+  main {
+    max-width: 600px;
+    margin: 0 auto;
+  
+  }
+  
+  .title {
+    color: white; 
+    font-family: "Jersey 25", sans-serif;
+    font-size: 40px;
+    background-color: #87079C;
+    text-align: center;
+    margin: auto;
+    padding: 0 0.5em;
+  }
+  
+  .quote {
+    text-align: center;
+    font-family: "Georama", sans-serif;
+  
+    padding: 0 1em
+  }
+  
+  .quote1 {
+    text-align: center;
+    font-family: "Jersey 25", sans-serif;
+    font-size: 25px;
+    color: #FA00FF;
+  
+    padding: 0 0.25em
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    border: solid #87079C;
+    border-width: 33px;
+    margin: 0 auto; 
+    box-sizing: border-box; 
+  }
+  
+  .image2, .image3 {
+    display: block;
+    max-width: 100%;
+    border: solid #87079C;
+    border-width: 33px;
+    margin: 0 auto; 
+    box-sizing: border-box; 
+  }
+  
+  #img-caption {
+    font-family: "Georama", sans-serif;
+    font-size: 11px;
+    text-align: center;
+    padding: 0.5em;
+  }
+  
+  h3 {
+    font-family: "Jersey 25", sans-serif;
+    font-size: 28px;
+    margin: auto;
+    padding: 0.5em;
+    text-align: center;
+  }
+  
+  
+  
+  li {
+    margin: auto;
+    font-family: "Georama", sans-serif;
+    color: #FA00FF;
+    font-size: 12px;
+  
+  }
+  
+  .footer {
+    padding: 30px;
+    text-align: center;
+    font-family: "Georama", sans-serif;
+    font-size: 15px;
+  }
+  
+  .wiki {
+    color: #FA00FF;
+  }
